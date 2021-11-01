@@ -8,5 +8,5 @@ Binevenidos a SaludApp una aplicación del programa de salud de la Universidad A
 ## Fundadores 
 
 Jonathan Fernando Celeita Baquero --> Scrum Master  
-Alexander --> Poduct Owner  
+Alexander --> Product Owner  
 German García Filoth --> Equipo de desarrollo  
