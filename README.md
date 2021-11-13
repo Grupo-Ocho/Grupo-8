@@ -10,3 +10,4 @@ Binevenidos a SaludApp una aplicación del programa de salud de la Universidad A
 * Jonathan Fernando Celeita Baquero --> Scrum Master  
 * Alexander Martinez Loaiza --> Product Owner  
 * German García Filoth --> Equipo de desarrollo  
+* Juan Pablo Quiroga Baena --> Equipo de desarrollo
