@@ -11,10 +11,12 @@
         android:theme="@style/Theme.FormSaludApp">
         <activity
             android:name=".CalcularMetabolismo"
-            android:exported="false" />
+            android:exported="false" 
+            android:windowSoftInputMode="stateAlwaysHidden"/>/>
         <activity
             android:name=".CalcularMasa"
-            android:exported="false" />
+            android:exported="false"
+            android:windowSoftInputMode="stateAlwaysHidden"/>/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
