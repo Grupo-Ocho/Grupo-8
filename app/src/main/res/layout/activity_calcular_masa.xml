@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".CalcularMasa">
+    tools:context=".vista.CalcularMasa">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -77,6 +77,16 @@
                 android:layout_margin="30dp"
                 android:background="@drawable/stylo_border_edit"
                 />
+
+            <Button
+                android:id="@+id/buttonListadoMasa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Listado"
+                android:layout_margin="30dp"
+                android:background="@drawable/stylo_border_edit"
+                />
+
 
             <LinearLayout
                 android:id="@+id/llayoutResultados"
