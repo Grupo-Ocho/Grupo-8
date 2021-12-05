@@ -10,19 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FormSaludApp">
         <activity
-            android:name=".vista.ListadoMetabolismo"
-            android:exported="true" />
+            android:name=".CalcularMetabolismo"
+            android:exported="false" 
+            android:windowSoftInputMode="stateAlwaysHidden"/>/>
         <activity
-            android:name=".vista.ListadoMasaCorporal"
-            android:exported="true" />
+            android:name=".CalcularMasa"
+            android:exported="false"
+            android:windowSoftInputMode="stateAlwaysHidden"/>/>
         <activity
-            android:name=".vista.CalcularMetabolismo"
-            android:exported="false" />
-        <activity
-            android:name=".vista.CalcularMasa"
-            android:exported="false" />
-        <activity
-            android:name=".vista.MainActivity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
